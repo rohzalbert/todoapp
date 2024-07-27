@@ -1,3 +1,15 @@
+# Introduction
+This is a simple To-Do List application built with React that allows users to add, edit, delete, and mark tasks as completed. 
+
+## How to Run the App
+
+1. Clone the repository
+2. Install dependencies: npm install
+3. Start the application: npm start
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
